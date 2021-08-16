@@ -1,0 +1,29 @@
+{
+    "name": "tonystore/fpdf-laravel",
+    "description": "Paquete para usar Libreria FPDF en Laravel",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anthony Medina Sandoval",
+            "email": "thony918@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2.5|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tonystore\\Fpdf\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tonystore\\Fpdf\\Tests\\": "tests"
+        }
+    }
+}
