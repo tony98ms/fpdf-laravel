@@ -3,6 +3,11 @@
     "description": "Paquete para usar Libreria FPDF en Laravel",
     "type": "package",
     "license": "MIT",
+    "keywords": [
+        "fpdf",
+        "laravel",
+        "pdf"
+    ],
     "authors": [
         {
             "name": "Anthony Medina Sandoval",

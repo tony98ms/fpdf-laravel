@@ -1,4 +1,7 @@
 # Laravel package for Fpdf
+[![Latest Stable Version](https://poser.pugx.org/tonystore/fpdf-laravel/v/stable?format=flat-square)](https://packagist.org/packages/tonystore/fpdf-laravel)
+[![Total Downloads](https://poser.pugx.org/tonystore/fpdf-laravel/downloads?format=flat-square)](https://packagist.org/packages/tonystore/fpdf-laravel)
+[![License](https://poser.pugx.org/tonystore/fpdf-laravel/license?format=flat-square)](https://packagist.org/packages/tonystore/fpdf-laravel)
 
 This package uses [FPDF](http://www.fpdf.org/) and allows integration with [Laravel](https://laravel.com/), and is based on the [crabbly/fpdf-laravel](https://github.com/crabbly/fpdf-laravel) package, but with an updated version of [FPDF](http://www.fpdf.org/).
 
